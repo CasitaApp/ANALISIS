@@ -1,2 +1,0 @@
-alpaca_api_key = "PK4M0QHPSUROT8ZDAOPF"
-alpaca_secret_key = "h2LkVk9MuIUCUzHlLFAziupRH4PFjcdeoBGJMcmD"
